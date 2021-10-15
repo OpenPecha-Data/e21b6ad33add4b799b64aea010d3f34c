@@ -1,0 +1,114 @@
+id: cdc540995a68437c84ed8b6b3e109ba3
+annotation_type: Segment
+revision: '00001'
+annotations:
+  9d66556f877740e982a1f742daf08a89:
+    span:
+      start: 0
+      end: 51
+    metadata: {}
+  c28b61a1356b4df9892680c97f78f8d8:
+    span:
+      start: 53
+      end: 85
+    metadata: {}
+  6983d29b09c7438ca09f078837489558:
+    span:
+      start: 87
+      end: 266
+    metadata: {}
+  843c2d9fddf14fed975b86cfe4bda8cd:
+    span:
+      start: 268
+      end: 350
+    metadata: {}
+  b420aec27ef24e06bc911254e651fe37:
+    span:
+      start: 352
+      end: 423
+    metadata: {}
+  57db2c39e63d40d0ab35cb10e4f54ccd:
+    span:
+      start: 425
+      end: 506
+    metadata: {}
+  18249bb906434ea9914aa69fed3159f3:
+    span:
+      start: 508
+      end: 619
+    metadata: {}
+  26b3564c447d4cbca7c1dd141921164a:
+    span:
+      start: 621
+      end: 728
+    metadata: {}
+  554e871110ed4a9d842b50003e4d302e:
+    span:
+      start: 730
+      end: 816
+    metadata: {}
+  7aac2a367ca743478a892c567f5f0c51:
+    span:
+      start: 818
+      end: 842
+    metadata: {}
+  fcbbe4fa8ce74dfdb631f8f7710c4b6a:
+    span:
+      start: 844
+      end: 934
+    metadata: {}
+  cf6848a876e34caaa9f556e8e42d87cf:
+    span:
+      start: 936
+      end: 1002
+    metadata: {}
+  97394d24329844019e6f91bc85d89ac2:
+    span:
+      start: 1004
+      end: 1058
+    metadata: {}
+  e4b13bebd86c45469d0392ed182990fd:
+    span:
+      start: 1060
+      end: 1120
+    metadata: {}
+  2cbb1ca252c04011913efed9be83eb39:
+    span:
+      start: 1122
+      end: 1208
+    metadata: {}
+  5d3dee8cdc2545e4bb4526cbedea7838:
+    span:
+      start: 1210
+      end: 1329
+    metadata: {}
+  42b5699697df4a61b8d4705dbed31188:
+    span:
+      start: 1331
+      end: 1374
+    metadata: {}
+  e8cae684b8494b74b369ccc26e1d3acf:
+    span:
+      start: 1376
+      end: 1471
+    metadata: {}
+  57ad4d5860c34dd4991734b1f150f4bd:
+    span:
+      start: 1473
+      end: 1512
+    metadata: {}
+  cc32943fd89849c284ee4df119d74351:
+    span:
+      start: 1514
+      end: 1663
+    metadata: {}
+  9d527356feeb42019c02db461f9b015d:
+    span:
+      start: 1665
+      end: 1756
+    metadata: {}
+  425e08d838774d8eb49e6b2d1c410192:
+    span:
+      start: 1758
+      end: 1851
+    metadata: {}
